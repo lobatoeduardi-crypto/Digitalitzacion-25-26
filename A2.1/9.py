@@ -13,7 +13,6 @@ for i in range(len(list_num)):
 
 print("Lista ordenada con Selection Sort:", list_num)
 
-
 # Ordenación con Insertion Sort
 
 list_num = [2, 7, 4, 2, 1, 6, 3, 7, 6, 10]
